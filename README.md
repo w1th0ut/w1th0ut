@@ -5,4 +5,4 @@ Hello i'm Bagas, a high school student at an Indonesian school. I really like te
 ## About Me:boy:
 [![w1th0ut's stats](https://github-readme-stats.vercel.app/api?username=w1th0ut&show_icons=true&theme=cobalt)](https://github.com/w1th0ut/)
 
-[![w1th0ut's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut&layout=compact)](https://www.python.org/)
+[![w1th0ut's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut&layout=compact)](https://github.com/w1th0ut/)
