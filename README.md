@@ -12,5 +12,5 @@ Hello i'm Bagas, a high school student at an Indonesian school. I really like te
 </a>
 
 ## Find Me:left_speech_bubble:
-- Contributing on: <a href="https://github.com/w1th0ut/"><img src="https://img.shields.io/github/followers/w1th0ut.svg?label=GitHub&style=social" alt="GitHub"></a>
-- Take a closer look at me: <a href="https://www.instagram.com/bags.rz/">Instagram</a>
+- Contributing on: <a href="https://github.com/w1th0ut/"><img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+- Take a closer look at me: <a href="https://www.instagram.com/bags.rz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
