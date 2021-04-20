@@ -3,7 +3,8 @@
 Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at an Indonesian school. I really like technology, such as robotics, automation, etc. My first and favorite language is Python. I'm also studying a data scientist and machine learning. For now I focus on Cybersecurity. Greetings all.
 
 ## About Me:boy:
-404
+50% Developer
+50% Security Analysis
 
 ## My Stats&#x1f4c8;
 <a href="https://github.com/w1th0ut/">
