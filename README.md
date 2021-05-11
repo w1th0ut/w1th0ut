@@ -17,5 +17,5 @@ Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at
 ## Find Me:left_speech_bubble:
 - Contributing on: <a href="https://github.com/w1th0ut/"><img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 - Take a closer look at me: <a href="https://www.instagram.com/bags.rz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-- <a href="https://www.buymeacoffee.com/bagas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- A Coffee, please? <a href="https://www.buymeacoffee.com/bagas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <img src="https://views.whatilearened.today/views/github/w1th0ut/views.svg" alt="View">
