@@ -10,7 +10,7 @@ Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at
   <ul>
     <li><a href="https://medium.com/@bagasgunardi/open-redirect-xss-to-stealing-facebook-token-49fb476c2f3b?source=user_profile---------0----------------------------">Open redirect vulnerability to steal facebook access token lead account takeover</a></li><li><a href="">Coming Soon..</a></li>
   </ul>
-<h2>Latest Tweets</h2>
+<h2>Latest Tweets:left_speech_bubble:</h2>
 <p><a href="https://twitter.com/bags_rg"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=bags_rg&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats&#x1f4c8;</h2>
 <a href="https://github.com/w1th0ut/">
