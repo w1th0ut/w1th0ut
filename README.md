@@ -8,7 +8,7 @@ Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at
     </a>
 <h2>Latest Blog Posts:books:</h2>
   <ul>
-    <li><a href="https://medium.com/@bagasgunardi/open-redirect-xss-to-stealing-facebook-token-49fb476c2f3b?source=user_profile---------0----------------------------" target="_blank">Open redirect vulnerability to steal facebook access token lead account takeover</a></li><li><a href="javascript:alert('Coming Soon!')">Coming Soon..</a></li>
+    <li><a href="https://medium.com/@bagasgunardi/open-redirect-xss-to-stealing-facebook-token-49fb476c2f3b?source=user_profile---------0----------------------------" target="_blank">Open redirect vulnerability to steal facebook access token lead account takeover</a></li><li><a href="javascript:alert('Coming Soon!')">Coming Soon..</a></li><li><a href="https://medium.com/@bagasgunardi/how-github-page-takeover-works-66a232dff355?source=user_profile---------0----------------------------">Subdomain takeover for Github web page</a></li>
   </ul>
 <h2>Latest Tweets:left_speech_bubble:</h2>
 <p><a href="https://twitter.com/bags_rg" target="_blank"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=bags_rg&amp;layout=wide" alt="github-readme-twitter"></a></p>
