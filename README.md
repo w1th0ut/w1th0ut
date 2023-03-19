@@ -14,12 +14,13 @@ Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at
 <p><a href="https://twitter.com/bags_rg" target="_blank"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=bags_rg&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats&#x1f4c8;</h2>
 <a href="https://github.com/w1th0ut/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=w1th0ut&show_icons=true" alt="stat"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=w1th0ut&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&custom_title=My+Github+Stats" alt="stat"/>
 </a>
 
 <a href="https://github.com/w1th0ut/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut" alt="TopLang"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="TopLang"/>
 </a>
+
 <a href="https://github.com/w1th0ut/">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=w1th0ut&theme=onedark" alt="trophy"/>
 </a>
