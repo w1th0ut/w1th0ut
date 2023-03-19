@@ -1,6 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://github.com/w1th0ut/w1th0ut/blob/main/w1th0ut-banner.png">
-<p>
 [![Linkedin Badge](https://img.shields.io/badge/-bagasgunardi-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/bagasgunardi)
 [![Github Badge](https://img.shields.io/badge/-w1th0ut-black?style=flat&logo=github)](https://www.github.com/w1th0ut) 
 [![Twitter Badge](https://img.shields.io/badge/-bags_rg-black?style=flat&logo=twitter)](https://twitter.com/bags_rg) 
@@ -15,7 +14,6 @@
 [![Kali_Linux Badge](https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux)](https://www.kali.org)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu)](https://ubuntu.com)
 [![Debian Badge](https://img.shields.io/badge/Debian-black?style=flat&logo=debian)](https://www.debian.org)
-</p>
 Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm college student at Sumatera Institute of Technplogy. I really like technology, such as robotics, automation, etc. My first and favorite language is Python. I'm also studying a data scientist and machine learning. For now I focus on Cybersecurity. Greetings all.
 <p><a href="https://w1th0ut.github.io" target="_blank">➡️ Check out my website (Under Development)</a></p>
   <a href="https://www.buymeacoffee.com/bagas" target="_blank" rel="noreferrer nofollow">
