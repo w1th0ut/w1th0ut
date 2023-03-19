@@ -20,5 +20,8 @@ Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm high school student at
 <a href="https://github.com/w1th0ut/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut" alt="TopLang"/>
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=beruangsalju&theme=onedark)](https://github.com/beruangsalju/beruangsalju)
+<a href="https://github.com/w1th0ut/">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=w1th0ut&theme=onedark" alt="trophy"/>
+</a>
+
 <img src="https://views.whatilearened.today/views/github/w1th0ut/views.svg" alt="View">
