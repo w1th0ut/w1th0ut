@@ -23,7 +23,7 @@
 <img src="https://views.whatilearened.today/views/github/w1th0ut/views.svg" alt="View">
 
 <p>
-Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm college student at Sumatera Institute of Technplogy. An informatics engineering student with cyber security background. Actively do bug bounty since 2020 until now. I am eager to study new things to improve my skills furthermore.
+Hello i'm Bagas Rizki Gunardi, you can call me Bagas. I'm college student at Sumatera Institute of Technology. An informatics engineering student with cyber security background. Actively do bug bounty since 2020 until now. I am eager to study new things to improve my skills furthermore.
 </p>
 <p><a href="https://w1th0ut.github.io" target="_blank">➡️ Check out my website (Under Development)</a></p>
   <a href="https://www.buymeacoffee.com/bagas" target="_blank" rel="noreferrer nofollow">
