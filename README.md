@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bagasgunardi-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/bagasgunardi)
 [![Github Badge](https://img.shields.io/badge/-w1th0ut-black?style=flat&logo=github)](https://www.github.com/w1th0ut) 
-[![Twitter Badge](https://img.shields.io/badge/-bags_rg-black?style=flat&logo=twitter)](https://twitter.com/bags_rg) 
+[![X Badge](https://img.shields.io/badge/-bags_rg-black?style=flat&logo=x)](https://x.com/bags_rg) 
 [![Telegram Badge](https://img.shields.io/badge/-user38-black?style=flat&logo=telegram)](https://telegram.me/user38)
 [![Gmail Badge](https://img.shields.io/badge/-bagas.gunardi@gmail.com-black?style=flat&logo=Gmail)](mailto:bagas.gunardi@gmail.com)
 [![HackTheBox Badge](https://img.shields.io/badge/-w1th0ut-black?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/)
