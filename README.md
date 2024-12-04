@@ -29,11 +29,11 @@ Hello i'm Bagas, you can call me Bagas. I'm college student at Sebelas Maret Uni
   <a href="https://www.buymeacoffee.com/bagas" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
-<h2>Latest Blog Posts:books:</h2>
+<h2>Latest Blog Posts :open_book:</h2>
   <ul>
     <li><a href="https://medium.com/@bagasgunardi/open-redirect-xss-to-stealing-facebook-token-49fb476c2f3b?source=user_profile---------0----------------------------" target="_blank">Open redirect vulnerability to steal facebook access token lead account takeover</a></li><li><a href="https://medium.com/@bagasgunardi/how-github-page-takeover-works-66a232dff355?source=user_profile---------0----------------------------">Subdomain takeover for Github web page</a></li><li><a href="javascript:alert('Coming Soon!')">Coming Soon..</a></li>
   </ul>
-<h2>Latest Tweets:left_speech_bubble:</h2>
+<h2>Latest Tweets :speech_balloon:</h2>
 <p><a href="https://twitter.com/bags_rg" target="_blank"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=bags_rg&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats&#x1f4c8;</h2>
 <div align="center">
