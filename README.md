@@ -35,19 +35,9 @@ Hello i'm Bagas, you can call me Bagas. I'm college student at Sebelas Maret Uni
   </ul>
 <h2>GitHub Stats&#x1f4c8;</h2>
 <div align="center">
-<a href="https://github.com/w1th0ut/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=w1th0ut&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&custom_title=My+Github+Stats" alt="stat"/>
-</a>
-
-<a href="https://github.com/w1th0ut/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1th0ut&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="TopLang"/>
-</a>
 
 <a href="https://github.com/w1th0ut/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=w1th0ut&theme=dark&background=black&ring=lime&fire=purple&dates=white&currStreakNum=lime&sideNums=lime&currStreakLabel=lime&sideLabels=lime&stroke=lime&border=black" alt="streak"/>
 </a>
 
-<a href="https://github.com/w1th0ut/">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=w1th0ut&theme=onedark" alt="trophy"/>
-</a>
 </div>
