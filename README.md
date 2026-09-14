@@ -23,7 +23,9 @@
 <img src="https://views.whatilearened.today/views/github/w1th0ut/views.svg" alt="View">
 
 <p>
-Hello i'm Bagas, you can call me Bagas. I'm college student at Sebelas Maret University. An informatics student with cyber security background. Actively do bug bounty since 2020 until now. I am eager to study new things to improve my skills furthermore.
+I'm Bagas Rizki Gunardi — Fullstack & Web3 Engineer, AI & Quantitative Researcher, and former Security Analyst based in Indonesia. Currently studying Informatics at Sebelas Maret University. I build high-performance decentralized protocols, autonomous AI agents, and data-driven quant systems. Passionate about the intersection of DeFi, on-chain intelligence, and algorithmic trading.
+
+From smart contract architecture on EVM and Sui, to backend systems in Go and Node.js, to quantitative momentum scanners and DeFAI agent frameworks ship end-to-end. Previously active bug bounty hunter (Redstorm, HackerOne, YesWeHack) since 2020, acknowledged by Google, Swisscom, Halodoc, Bukalapak, and others.
 </p>
 <p><a href="https://w1th0ut.github.io" target="_blank">➡️ Check out my website</a></p>
   <a href="https://www.buymeacoffee.com/bagas" target="_blank" rel="noreferrer nofollow">
